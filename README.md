@@ -1,5 +1,3 @@
-# Student Engagement Prediction Using Behavioral Data
-
 ## Overview
 This repository contains step-by-step solutions and explanations for analyzing bakery sales data using Python and Pandas. The goal is to understand how to analyze data systematically and develop basic data science skills.
 
